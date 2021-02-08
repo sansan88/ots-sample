@@ -1,0 +1,22 @@
+{
+  "name": "ots-sample",
+  "version": "1.0.0",
+  "description": "ots-sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sansan88/ots-sample.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sansan88/ots-sample/issues"
+  },
+  "homepage": "https://github.com/sansan88/ots-sample#readme",
+  "dependencies": {
+    "opentimestamps": "^0.4.9"
+  }
+}
